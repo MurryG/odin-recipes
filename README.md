@@ -1,0 +1,1 @@
+This is a project made while working through the Odin Project. My goal is to refresh my memory of front end coding, since I fell off the coding wagon during the pandemic.
